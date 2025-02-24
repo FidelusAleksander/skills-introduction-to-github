@@ -1,4 +1,16 @@
-# Introduction to GitHub
+<img src=https://octodex.github.com/images/welcometocat.png align=right height=250px />
+
+⭐️ Congratulations FidelusAleksander! ⭐️
+
+You completed this lesson! Nice work! 🥳
+
+If you would like to practice again, you can retrace your steps below. Just press the **Start Lesson** button again.
+
+> [!TIP]
+> Mona won't grade you this time! 😉
+
+
+ # Introduction to GitHub
 
 <!-- ![](https://github.com/FidelusAleksander/skills-introduction-to-github/actions/workflows/0-start-course.yml/badge.svg?branch=main) -->
 ![](https://github.com/FidelusAleksander/skills-introduction-to-github/actions/workflows/1-create-a-branch.yml/badge.svg?branch=my-first-branch)
