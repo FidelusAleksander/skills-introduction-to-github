@@ -71,7 +71,6 @@ jobs:
           fi
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        
 
       - name: Build message - step finished
         id: build-message-step-finish
